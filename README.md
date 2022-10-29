@@ -1,1 +1,31 @@
-# Phishing-companies
+## [](#table-of-contents) Фишинговые компании / Phishing companies
+
+Снизу представлены разборы/отчёты об фишинговых компаниях APT группировок, которые содержат пример письма с помощью которого осуществлялась рассылка. Зачастую разборы атак APT группировок не содержат примеры писем, это побудило меня создать репозиторий в котором будут отчёты/разборы, которые точно содержат фишинговое письмо. Постепенно данный список будет пополняться. Contributing приветствуется 
+
+- [APT29](APT29)
+    - [Election Fraud Themed Phishing Campaigns](APT29/Election%20Fraud%20Themed%20Phishing%20Campaigns)
+    - [Phishing campaigns targeting diplomatic organizations in Europe, the Americas, and Asia](APT29/Phishing%20campaigns%20targeting%20diplomatic%20organizations%20in%20Europe,%20the%20Americas,%20and%20Asia)
+    - [Post-Election Spear Phishing Campaigns Targeting Think Tanks and NGOs](APT29/Post-Election%20Spear%20Phishing%20Campaigns%20Targeting%20Think%20Tanks%20and%20NGOs)
+- [APT35](APT35)
+    - [The Wall Street Journal Attack](APT35/The%20Wall%20Street%20Journal%20Attack)
+    - [Happy New Year](APT35/Happy%20New%20Year)
+- [Tonto Team](Tonto%20Team)
+    - [Russian organizations Under Attack By Chinese APTs](Tonto%20Team/Russian%20organizations%20Under%20Attack%20By%20Chinese%20APTs)
+- [Konni](Konni)
+    - [Attack on Russian diplomats](Konni/Attack%20on%20Russian%20diplomats)
+    - [Meeting the Ministrer](Meeting%20the%20Ministrer)
+- [SideWinder](SideWinder)
+    - [Covid-19 Phishing Company](SideWinder/Covid-19%20Phishing%20Company)
+- [APT-C-36](APT-C-36)
+    - [APT-C-36 Updates Its Long-term Spam Campaign Against South American Entities With Commodity](APT-C-36/APT-C-36%20Updates%20Its%20Long-term%20Spam%20Campaign%20Against%20South%20American%20Entities%20With%20Commodity)
+    - [Attacks on Colombian companies](APT-C-36/Attacks%20on%20Colombian%20companies)
+- [APT10](APT10)
+    - [Chinese APT espionage operation against Russian state-owned defense institutes](APT10/Chinese%20APT%20espionage%20operation%20against%20Russian%20state-owned%20defense%20institutes)
+    - [Phishing Campaign Delivers Quasar RAT Payloads via Fake Resumes](APT10/Phishing%20Campaign%20Delivers%20Quasar%20RAT%20Payloads%20via%20Fake%20Resumes)
+    - [Targeting Japanese Corporations](APT10/Targeting%20Japanese%20Corporations)
+- [APT28](APT28)
+    - [Hackers Attack US Senate](APT28/Hackers%20Attack%20US%20Senate)
+    - [Hackers Target Foreign Ministries](APT28/Hackers%20Target%20Foreign%20Ministries)
+    - [Happy New Year](APT28/Happy%20New%20Year)
+    - [The phishing attack against John Podesta](APT28/The%20phishing%20attack%20against%20John%20Podesta)
+    
