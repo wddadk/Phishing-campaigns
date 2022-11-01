@@ -1,7 +1,7 @@
 ## [](#table-of-contents) Фишинговые компании
 
 Снизу представлены разборы/отчёты об фишинговых компаниях APT группировок, которые содержат пример писем, с помощью которого осуществлялась рассылка. Зачастую разборы атак APT группировок не содержат примеры писем, это побудило меня создать репозиторий в котором будут отчёты/разборы, которые точно содержат фишинговое письмо. Постепенно данный список будет пополняться. Contributing приветствуется. Для надежности каждая ссылка была продублирована через webarchive
-## [](#talbe-ofcontets) Phishing companies
+## [](#talbe-ofcontets) Phishing campaigns
 Below are analysis/reports on APT grouping phishing campaigns that contain a phishing email. In most cases, APT group attack reports do not contain examples of emails, this prompted me to create a repository in which there will be analysis/reports that will definitely contain a phishing email. Gradually, this list will be replenished. Contributing is welcome. For reliability, each link was duplicated via webarchive
 
 - [APT29](APT29)
