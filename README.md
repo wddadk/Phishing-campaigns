@@ -128,3 +128,19 @@ Below are analysis/reports on APT grouping phishing campaigns that contain a phi
     - [Fake antivirus updates used to deploy Cobalt Strike in Ukraine](UAC-0056/Fake%20antivirus%20updates%20used%20to%20deploy%20Cobalt%20Strike%20in%20Ukraine)
     - [Spear Phishing Attacks Target Organizations in Ukraine](UAC-0056/Spear%20Phishing%20Attacks%20Target%20Organizations%20in%20Ukraine)
     - [There's a Go Elephant in the room](UAC-0056/There's%20a%20Go%20Elephant%20in%20the%20room)
+- [Ghostwriter](Ghostwriter)
+    - [State Actor Uses CompromisedPrivate Ukrainian Military Emails to Target EuropeanGovernments and Refugee Movemen](Ghostwriter/State%20Actor%20Uses%20CompromisedPrivate%20Ukrainian%20Military%20Emails%20to%20Target%20EuropeanGovernments%20and%20Refugee%20Movemen)
+- [Unidentified APT Groupings](Unidentified%20APT%20Groupings)
+    - [Uri Terror attack & Kashmir Protest Themed spear phishingemails targeting Indian Embassies and Indian Ministry ofexternal affairs](Unidentified%20APT%20Groupings/Uri%20Terror%20attack%20%26%20Kashmir%20Protest%20Themed%20spear%20phishingemails%20targeting%20Indian%20Embassies%20and%20Indian%20Ministry%20ofexternal%20affairs)
+    - [Spear Phishing Emails to IndianGovernment Officials](Unidentified%20APT%20Groupings/Spear%20Phishing%20Emails%20to%20IndianGovernment%20Officials)
+    - [Russian Bank Offices Hit with Broad Phishing Wave](Unidentified%20APT%20Groupings/Russian%20Bank%20Offices%20Hit%20with%20Broad%20Phishing%20Wave)
+    
+    
+
+ 
+ 
+## Sources:
+    - Internet
+    - https://github.com/aptnotes/data
+    - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections 
+    - https://t.me/RalfHackerChannel
