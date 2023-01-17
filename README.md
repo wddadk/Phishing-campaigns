@@ -3,7 +3,8 @@
 Снизу представлены разборы/отчёты об фишинговых компаниях APT группировок, которые содержат пример писем, с помощью которого осуществлялась рассылка. Зачастую разборы атак APT группировок не содержат примеры писем, это побудило меня создать репозиторий в котором будут отчёты/разборы, которые точно содержат фишинговое письмо. Постепенно данный список будет пополняться. Contributing приветствуется. Для надежности каждая ссылка была продублирована через webarchive
 ## [](#talbe-ofcontets) Phishing campaigns
 Below are analysis/reports on APT grouping phishing campaigns that contain a phishing email. In most cases, APT group attack reports do not contain examples of emails, this prompted me to create a repository in which there will be analysis/reports that will definitely contain a phishing email. Gradually, this list will be replenished. Contributing is welcome. For reliability, each link was duplicated via webarchive
-
+- [APT1](APT1)
+    - [Exposing One of China’s CyberEspionage Units](APT1/Exposing%20One%20of%20China’s%20CyberEspionage%20Units)
 - [APT29](APT29)
     - [Election Fraud Themed Phishing Campaigns](APT29/Election%20Fraud%20Themed%20Phishing%20Campaigns)
     - [Phishing campaigns targeting diplomatic organizations in Europe, the Americas, and Asia](APT29/Phishing%20campaigns%20targeting%20diplomatic%20organizations%20in%20Europe,%20the%20Americas,%20and%20Asia)
@@ -130,6 +131,8 @@ Below are analysis/reports on APT grouping phishing campaigns that contain a phi
     - [There's a Go Elephant in the room](UAC-0056/There's%20a%20Go%20Elephant%20in%20the%20room)
 - [Ghostwriter](Ghostwriter)
     - [State Actor Uses CompromisedPrivate Ukrainian Military Emails to Target EuropeanGovernments and Refugee Movemen](Ghostwriter/State%20Actor%20Uses%20CompromisedPrivate%20Ukrainian%20Military%20Emails%20to%20Target%20EuropeanGovernments%20and%20Refugee%20Movemen)
+- [Rocket Kitten](Rocket%20Kitten)
+    - [Operation Woolen-GoldFish](Rocket%20Kitten/Operation%20Woolen-GoldFish)
 - [Unidentified APT Groupings](Unidentified%20APT%20Groupings)
     - [Uri Terror attack & Kashmir Protest Themed spear phishingemails targeting Indian Embassies and Indian Ministry ofexternal affairs](Unidentified%20APT%20Groupings/Uri%20Terror%20attack%20%26%20Kashmir%20Protest%20Themed%20spear%20phishingemails%20targeting%20Indian%20Embassies%20and%20Indian%20Ministry%20ofexternal%20affairs)
     - [Spear Phishing Emails to IndianGovernment Officials](Unidentified%20APT%20Groupings/Spear%20Phishing%20Emails%20to%20IndianGovernment%20Officials)
