@@ -3,8 +3,7 @@
 Снизу представлены разборы/отчёты об фишинговых компаниях APT группировок, которые содержат пример писем, с помощью которого осуществлялась рассылка. Зачастую разборы атак APT группировок не содержат примеры писем, это побудило меня создать репозиторий в котором будут отчёты/разборы, которые точно содержат фишинговое письмо. Постепенно данный список будет пополняться. Contributing приветствуется. Для надежности каждая ссылка была продублирована через webarchive
 ## [](#talbe-ofcontets) Phishing campaigns
 Below are analysis/reports on APT grouping phishing campaigns that contain a phishing email. In most cases, APT group attack reports do not contain examples of emails, this prompted me to create a repository in which there will be analysis/reports that will definitely contain a phishing email. Gradually, this list will be replenished. Contributing is welcome. For reliability, each link was duplicated via webarchive
-- [APT1](APT1)
-    - [Exposing One of China’s CyberEspionage Units](APT1/Exposing%20One%20of%20China’s%20CyberEspionage%20Units)
+
 - [APT29](APT29)
     - [Election Fraud Themed Phishing Campaigns](APT29/Election%20Fraud%20Themed%20Phishing%20Campaigns)
     - [Phishing campaigns targeting diplomatic organizations in Europe, the Americas, and Asia](APT29/Phishing%20campaigns%20targeting%20diplomatic%20organizations%20in%20Europe,%20the%20Americas,%20and%20Asia)
