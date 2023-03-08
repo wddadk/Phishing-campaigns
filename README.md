@@ -17,7 +17,7 @@ Below are analysis/reports on APT grouping phishing campaigns that contain a phi
     - [Exploring the TTPs of an advanced threat actor operating a large infrastructure](Tonto%20Team/Exploring%20the%20TTPs%20of%20an%20advanced%20threat%20actor%20operating%20a%20large%20infrastructure)
 - [Konni](Konni)
     - [Attack on Russian diplomats](Konni/Attack%20on%20Russian%20diplomats)
-    - [Meeting the Ministrer](Meeting%20the%20Ministrer)
+    - [Meeting the Ministrer](Konni/Meeting%20the%20Ministrer)
 - [SideWinder](SideWinder)
     - [Covid-19 Phishing Company](SideWinder/Covid-19%20Phishing%20Company)
     - [Global Perspective](SideWinder/Global%20Perspective)
