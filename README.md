@@ -57,7 +57,6 @@ Below are analysis/reports on APT grouping phishing campaigns that contain a phi
 - [BRONZE BUTLER](BRONZE%20BUTLER)
     - [Operation ENDTRADE](BRONZE%20BUTLER/Operation%20ENDTRADE)
 - [Cobalt Group](Cobalt%20Group) 
-    - [AN EVOLVING MULTINATIONAL THREAT TO FINANCE](Cobalt%20Group/AN%20EVOLVING%20MULTINATIONAL%20THREAT%20TO%20FINANCE)
     - [Attack on banks](Cobalt%20Group/Attack%20on%20banks)
     - [CVE-2017-0199](Cobalt%20Group/CVE-2017-0199)
     - [CVE-2017-0199 #2](Cobalt%20Group/CVE-2017-0199%20%232)
