@@ -6,7 +6,6 @@ Below are analysis/reports on APT grouping phishing campaigns that contain a phi
 
 - [APT29](APT29)
     - [Election Fraud Themed Phishing Campaigns](APT29/Election%20Fraud%20Themed%20Phishing%20Campaigns)
-    - [Phishing campaigns targeting diplomatic organizations in Europe, the Americas, and Asia](APT29/Phishing%20campaigns%20targeting%20diplomatic%20organizations%20in%20Europe,%20the%20Americas,%20and%20Asia)
     - [Post-Election Spear Phishing Campaigns Targeting Think Tanks and NGOs](APT29/Post-Election%20Spear%20Phishing%20Campaigns%20Targeting%20Think%20Tanks%20and%20NGOs)
     - [Covid-19 Phishing Company](APT29/Covid-19%20Phishing%20Company)
     - [No Easy Breach](APT29/No%20Easy%20Breach)
