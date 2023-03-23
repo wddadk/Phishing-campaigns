@@ -35,6 +35,7 @@ Below are analysis/reports on APT grouping phishing campaigns that contain a phi
     - [The phishing attack against John Podesta](APT28/The%20phishing%20attack%20against%20John%20Podesta)
     - [Nato meeting](APT28/Nato%20meeting)
     - [Google Drive and IMAP Remote Access Trojans (RATs)](APT28/Google%20Drive%20and%20IMAP%20Remote%20Access%20Trojans%20(RATs))
+    - [En Route with Sednit](APT28/En%20Route%20with%20Sednit)
 - [DPRK-nexus](DPRK-nexus)
     - [Adversary Targets South Korean Individuals in a New Chapter of Kitty Phishing Operations](DPRK-nexus/Adversary%20Targets%20South%20Korean%20Individuals%20in%20a%20New%20Chapter%20of%20Kitty%20Phishing%20Operations)
 - [admin@338](DPRK-nexus)
@@ -142,5 +143,6 @@ Below are analysis/reports on APT grouping phishing campaigns that contain a phi
 ## Sources:
     - Internet
     - https://github.com/aptnotes/data
-    - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections 
+    - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
+    - https://github.com/blackorbird/APT_REPORT
     - https://t.me/RalfHackerChannel
