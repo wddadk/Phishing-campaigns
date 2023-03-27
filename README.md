@@ -12,6 +12,7 @@ Below are analysis/reports on APT grouping phishing campaigns that contain a phi
 - [APT35](APT35)
     - [The Wall Street Journal Attack](APT35/The%20Wall%20Street%20Journal%20Attack)
     - [Happy New Year](APT35/Happy%20New%20Year)
+    - [The Kittens Are Back in Town 1-3](APT35/The%20Kittens%20Are%20Back%20in%20Town%201-3)
 - [Tonto Team](Tonto%20Team)
     - [Russian organizations Under Attack By Chinese APTs](Tonto%20Team/Russian%20organizations%20Under%20Attack%20By%20Chinese%20APTs)
     - [Exploring the TTPs of an advanced threat actor operating a large infrastructure](Tonto%20Team/Exploring%20the%20TTPs%20of%20an%20advanced%20threat%20actor%20operating%20a%20large%20infrastructure)
@@ -134,10 +135,14 @@ Below are analysis/reports on APT grouping phishing campaigns that contain a phi
     - [State Actor Uses CompromisedPrivate Ukrainian Military Emails to Target EuropeanGovernments and Refugee Movemen](Ghostwriter/State%20Actor%20Uses%20CompromisedPrivate%20Ukrainian%20Military%20Emails%20to%20Target%20EuropeanGovernments%20and%20Refugee%20Movemen)
 - [Rocket Kitten](Rocket%20Kitten)
     - [Operation Woolen-GoldFish](Rocket%20Kitten/Operation%20Woolen-GoldFish)
+- [Buhtrap](Buhtrap)
+    - [Attack on Russian and Belarusian financial institutions](Buhtrap/Attack%20on%20Russian%20and%20Belarusian%20financial%20institutions)
+    [Group-IB threat research](Buhtrap/Group-IB%20threat%20research)
 - [Unidentified APT Groupings](Unidentified%20APT%20Groupings)
     - [Uri Terror attack & Kashmir Protest Themed spear phishingemails targeting Indian Embassies and Indian Ministry ofexternal affairs](Unidentified%20APT%20Groupings/Uri%20Terror%20attack%20%26%20Kashmir%20Protest%20Themed%20spear%20phishingemails%20targeting%20Indian%20Embassies%20and%20Indian%20Ministry%20ofexternal%20affairs)
     - [Spear Phishing Emails to IndianGovernment Officials](Unidentified%20APT%20Groupings/Spear%20Phishing%20Emails%20to%20IndianGovernment%20Officials)
     - [Russian Bank Offices Hit with Broad Phishing Wave](Unidentified%20APT%20Groupings/Russian%20Bank%20Offices%20Hit%20with%20Broad%20Phishing%20Wave)
+    
     
     
 
