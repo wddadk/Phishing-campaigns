@@ -139,7 +139,7 @@ Below are analysis/reports on APT grouping phishing campaigns that contain a phi
     - [Operation Woolen-GoldFish](Rocket%20Kitten/Operation%20Woolen-GoldFish)
 - [Buhtrap](Buhtrap)
     - [Attack on Russian and Belarusian financial institutions](Buhtrap/Attack%20on%20Russian%20and%20Belarusian%20financial%20institutions)
-    [Group-IB threat research](Buhtrap/Group-IB%20threat%20research)
+    - [Group-IB threat research](Buhtrap/Group-IB%20threat%20research)
 - [Unidentified APT Groupings](Unidentified%20APT%20Groupings)
     - [Uri Terror attack & Kashmir Protest Themed spear phishingemails targeting Indian Embassies and Indian Ministry ofexternal affairs](Unidentified%20APT%20Groupings/Uri%20Terror%20attack%20%26%20Kashmir%20Protest%20Themed%20spear%20phishingemails%20targeting%20Indian%20Embassies%20and%20Indian%20Ministry%20ofexternal%20affairs)
     - [Spear Phishing Emails to IndianGovernment Officials](Unidentified%20APT%20Groupings/Spear%20Phishing%20Emails%20to%20IndianGovernment%20Officials)
