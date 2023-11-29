@@ -1,4 +1,4 @@
-## [](#table-of-contents) Фишинговые кампании
+## [](#table-of-contents) Phishing campaigns
 
 This repository contains papers on APT groups, which include examples of emails used in the phishing campaigns. Often, papers on APT group attacks do not provide email examples, which prompted me to create a repository that specifically includes on papers containing phishing emails. This list will be gradually expanded. Contributions are welcome. For reliability, each link has been duplicated through web archive.
 
