@@ -146,8 +146,9 @@ This repository contains papers on APT groups, which include examples of emails 
     - [Watch Wolf targets accountants through SEO poisoning](Watch%20Wolf/Watch%20Wolf%20targets%20accountants%20through%20SEO%20poisoning)
 - [Quartz Wolf](Quartz%20Wolf)
     - [New hacker group Quartz Wolf leverages legitimate software to attack the hospitality industry](Quartz%20Wolf/New%20hacker%20group%20Quartz%20Wolf%20leverages%20legitimate%20software%20to%20attack%20the%20hospitality%20industry)
-    
-
+- [RedCurl](RedCurl)
+    - [Кудри примелькались: кибершпионы из RedCurl атаковали банк от имени популярного маркетплейса](RedCurl/RedCurl%202023)
+    - [The pentest you didn’t know about](The%20pentest%20you%20didn’t%20know%20about)
  
  
 ## Sources:
