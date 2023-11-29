@@ -144,8 +144,10 @@ Below are analysis/reports on APT grouping phishing campaigns that contain a phi
     - [Uri Terror attack & Kashmir Protest Themed spear phishingemails targeting Indian Embassies and Indian Ministry ofexternal affairs](Unidentified%20APT%20Groupings/Uri%20Terror%20attack%20%26%20Kashmir%20Protest%20Themed%20spear%20phishingemails%20targeting%20Indian%20Embassies%20and%20Indian%20Ministry%20ofexternal%20affairs)
     - [Spear Phishing Emails to IndianGovernment Officials](Unidentified%20APT%20Groupings/Spear%20Phishing%20Emails%20to%20IndianGovernment%20Officials)
     - [Russian Bank Offices Hit with Broad Phishing Wave](Unidentified%20APT%20Groupings/Russian%20Bank%20Offices%20Hit%20with%20Broad%20Phishing%20Wave)
-    
-    
+- [Watch Wolf](Watch%20Wolf)
+    - [Watch Wolf targets accountants through SEO poisoning](Watch%20Wolf/Watch%20Wolf%20targets%20accountants%20through%20SEO%20poisoning)
+- [Quartz Wolf](Quartz%20Wolf)
+    - [New hacker group Quartz Wolf leverages legitimate software to attack the hospitality industry](Quartz%20Wolf/New%20hacker%20group%20Quartz%20Wolf%20leverages%20legitimate%20software%20to%20attack%20the%20hospitality%20industry)
     
 
  
