@@ -1,8 +1,6 @@
 ## [](#table-of-contents) Фишинговые кампании
 
-Снизу представлены разборы/отчёты об фишинговых компаниях APT группировок, которые содержат пример писем, с помощью которого осуществлялась рассылка. Зачастую разборы атак APT группировок не содержат примеры писем, это побудило меня создать репозиторий в котором будут отчёты/разборы, которые точно содержат фишинговое письмо. Постепенно данный список будет пополняться. Contributing приветствуется. Для надежности каждая ссылка была продублирована через webarchive
-## [](#talbe-ofcontets) Phishing campaigns
-Below are analysis/reports on APT grouping phishing campaigns that contain a phishing email. In most cases, APT group attack reports do not contain examples of emails, this prompted me to create a repository in which there will be analysis/reports that will definitely contain a phishing email. Gradually, this list will be replenished. Contributing is welcome. For reliability, each link was duplicated via webarchive
+This repository contains papers on APT groups, which include examples of emails used in the phishing campaigns. Often, papers on APT group attacks do not provide email examples, which prompted me to create a repository that specifically includes on papers containing phishing emails. This list will be gradually expanded. Contributions are welcome. For reliability, each link has been duplicated through web archive.
 
 - [APT29](APT29)
     - [Election Fraud Themed Phishing Campaigns](APT29/Election%20Fraud%20Themed%20Phishing%20Campaigns)
