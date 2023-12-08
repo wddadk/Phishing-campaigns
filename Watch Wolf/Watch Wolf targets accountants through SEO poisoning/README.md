@@ -2,7 +2,7 @@
 
 https://bi.zone/eng/expertise/blog/seo-poisoning-obzor-ataki-watch-wolf-na-bukhgalterov/
 
-https://t.me/bizone_channel/917w
+https://t.me/bizone_channel/917
 
 # WebArchive Link
 
